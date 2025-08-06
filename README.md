@@ -19,3 +19,6 @@ a.- Escribe el nombre de un amigo y haz click en "añadir",
 b.- Agrega tantos como quieras.
 b.- Haz click en "Elegir amigo" para saber cuál es el elegido.
 
+# agregados
+- Le he ahregado un botón para reiniciar el juego y disfrutarlo todas las veces que quieras!!!
+
